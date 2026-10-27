@@ -1,6 +1,6 @@
 # Moj razvojni priručnik
 
-[Ovaj priručnik opisuje osnovne postupke rada u terminalu,kao i upravljanje datotekama i korištenje osnovnih naredbi.]
+[Ovaj priručnik opisuje osnovne postupke rada u terminalu,kao i upravljanje datotekama i korištenje osnovnih naredbi.ujedno i objašnjava osnovne naredbe terminala.]
 
 ## Kome je namijenjen
 
@@ -22,6 +22,6 @@
 
 ## Autor i korištenje AI-a
 
-Priručnik piše [ijonjic26,git (https://github.com/Ivan-J88)] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
+Priručnik piše [ijonjic26,gi(https://github.com/Ivan-J88)] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
 
 [Pri izradi priručnika korišten je AI kao pomoć pri oblikovanju teksta.]
