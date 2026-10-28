@@ -64,6 +64,9 @@ ls
 
 [Upozorenje: Terminal nema koš za smeće te se prije nardbe `rm` (izbriši) uvjerite u sadržaj mape i što brišete.]
 
+## 7. Pomoć za Git naredbe
+Ako ne znamo kako se koristi neka naredba,možemo pogledati njezine upute pomoću opcije --help.U Git Bashu naredba ls --help prikazuje pomoć za naredbu ls.
+
 ## Ako ne radi
 
 
