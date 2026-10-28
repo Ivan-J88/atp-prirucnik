@@ -1,6 +1,6 @@
 # Moj razvojni priručnik
 
-[Ovaj priručnik opisuje osnovne postupke rada u terminalu,kao i upravljanje datotekama i korištenje osnovnih naredbi.ujedno i objašnjava osnovne naredbe terminala.]
+[Ovaj priručnik opisuje osnovne postupke rada u terminalu,kao i upravljanje datotekama i korištenje osnovnih naredbi.Ujedno i objašnjava osnovne naredbe terminala.]
 
 ## Kome je namijenjen
 
