@@ -19,13 +19,10 @@ Priručnik je namjenjen početnicima  koji žele upoznati osnovni rad u terminal
 ## Sadržaj
 
 - Upoznavanje s osnovnim naredbama te upravljanje datotekama u terminalu (docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
+- [Prvi koraci s Pandocom](docs/prvi-koraci-s-pandocom.md): tutorial
 
 ## Autor i korištenje AI-a
 
-<<<<<<< HEAD
 Priručnik piše [ijonjic26,gi(https://github.com/Ivan-J88)] u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
-=======
-Priručnik piše ijonjic26,gi(https://github.com/Ivan-J88) u sklopu kolegija Akademsko i tehničko pisanje na Sveučilištu u Zadru, 2026./2027.
->>>>>>> 8bb3297dee9607ab2596e380f6ac264730796cd1
 
 Pri izradi priručnika korišten je AI kao pomoć pri oblikovanju teksta.
