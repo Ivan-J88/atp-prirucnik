@@ -5,13 +5,13 @@ U ovom tutorialu naučit ćete kako koristiti terminal u programu Visual Studio 
 ## Prije početka
 
 - Operacijski sustav koji ćemo koristiti u današnjem tutorijalu je Windows 11 te terminal u Visusal Studio Codu Git Bash.
-- Visual Studio Code je pokrenut, a u njemu je otvorena mapa [NITRO].
+- Visual Studio Code je pokrenut, a u njemu je otvorena mapa [atp-prirucnik].
 
 ## 1. Otvorite terminal
 
 U izborniku **Terminal** odaberite **New Terminal**.
 
-**Očekivani rezultat:** $/c/Users/NITRO
+**Očekivani rezultat:** NITRO@NITRO UCRT64 ~/Documents/atp-prirucnik
 
 ## 2. Provjerite gdje se nalazite
 
@@ -19,7 +19,7 @@ U izborniku **Terminal** odaberite **New Terminal**.
 pwd
 ```
 
-**Očekivani rezultat:** $/c/Users/NITRO
+**Očekivani rezultat:** /c/Users/NITRO/Documents/atp-prirucnik/docs
 
 ## 3. Napravite mapu i uđite u nju
 
