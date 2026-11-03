@@ -20,6 +20,7 @@ Priručnik je namjenjen početnicima  koji žele upoznati osnovni rad u terminal
 
 - Upoznavanje s osnovnim naredbama te upravljanje datotekama u terminalu (docs/prvi-koraci-u-terminalu.md): tutorial, u izradi
 - [Prvi koraci s Pandocom](docs/prvi-koraci-s-pandocom.md): tutorial
+- [Instalacija pythona i prvi program](docs/instalacija-pythona.md): uputa
 
 ## Autor i korištenje AI-a
 
